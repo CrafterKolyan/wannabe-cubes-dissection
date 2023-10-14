@@ -26,7 +26,7 @@ See [main.ipynb](main.ipynb) for details.
 - `numpy` (can be removed after refactoring of answer printing, nothing really important depends on it)
 - `more-itertools` (can be removed by changing `more_itertools.distinct_permutations` to `itertools.permutations`, but don't want to use unoptimized `permutations` function)
 
-## Installation
+## Reproduction
 ```bash
 pip install -r requirements.txt
 jupyter notebook

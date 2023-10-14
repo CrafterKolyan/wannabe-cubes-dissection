@@ -13,7 +13,7 @@ Can 41x42x43 wannabe cube be dissected?
 
 ## Answers
 ### Question A (not solved)
-All 3D cuboids up to $45 \cross 46 \cross 47$ can't be dissected in smaller cuboids except for $5 \cross 6 \cross 7$.
+All 3D cuboids up to $45 \cross 46 \cross 47$ can't be dissected in smaller cuboids except for $5 \cross 6 \cross 7$. 43rd-45th wannabe cubes are not shown in the notebook in the repository but was checked by running code in the notebook for them separately.
 
 ### Question B
 No, it can't be dissected. Prove by program which uses SAT solver under the hood.

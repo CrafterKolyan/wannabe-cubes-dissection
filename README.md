@@ -1,5 +1,6 @@
 # Wannabe Cube Dissection
-[Original video](https://youtu.be/bHHVXD3pbJQ?si=qmWNOmCML-XWdQVC)
+[Original video](https://youtu.be/bHHVXD3pbJQ?si=qmWNOmCML-XWdQVC)<br>
+[Solution to question B](main.ipynb)
 
 ## Wannabe Cube
 Wannabe cube is cuboid with sequential integer lengths (e.g. $41 \times 42 \times 43$)

@@ -9,7 +9,7 @@ Wannabe cube is cuboid with sequential integer lengths (e.g. $41 \times 42 \time
 Is there any dissection of 3D wannabe cube by smaller *distinct* wannabe cubes apart from cuboid $5 \times 6 \times 7$?
 
 ### Question B
-Can 41x42x43 wannabe cube be dissected?
+Can $41 \times 42 \times 43$ wannabe cube be dissected?
 
 ## Answers
 ### Question A (not solved)

@@ -16,7 +16,8 @@ Can $41 \times 42 \times 43$ wannabe cube be dissected?
 All 3D cuboids up to $45 \times 46 \times 47$ can't be dissected in smaller cuboids except for $5 \times 6 \times 7$. 43rd-45th wannabe cubes are not shown in the notebook in the repository but was checked by running code in the notebook for them separately.
 
 ### Question B
-No, it can't be dissected. Prove by program which uses SAT solver under the hood.
+No, it can't be dissected. Prove by program which uses SAT solver under the hood.<br>
+See [main.ipynb](main.ipynb) for details.
 
 ## Dependencies
 - `z3`

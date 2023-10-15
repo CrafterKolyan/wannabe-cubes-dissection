@@ -23,6 +23,7 @@ See [main.ipynb](main.ipynb) for details.
 ## Dependencies
 - `z3`
 - `jupyter` (can be removed by refactoring into the script)
+- `tqdm` (can be removed by removing progress bar)
 - `numpy` (can be removed after refactoring of answer printing, nothing really important depends on it)
 - `more-itertools` (can be removed by changing `more_itertools.distinct_permutations` to `itertools.permutations`, but don't want to use unoptimized `permutations` function)
 

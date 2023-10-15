@@ -4,5 +4,6 @@ nbconvert
 nbformat
 
 numpy
+tqdm
 more-itertools
 z3

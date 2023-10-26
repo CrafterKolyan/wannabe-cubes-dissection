@@ -6,4 +6,4 @@ nbformat
 numpy
 tqdm
 more-itertools
-z3
+z3-solver

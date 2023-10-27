@@ -21,7 +21,7 @@ No, it can't be dissected. Prove by program which uses SAT solver under the hood
 See [main.ipynb](main.ipynb) for details.
 
 ## Dependencies
-- `z3`
+- `z3-solver`
 - `jupyter` (can be removed by refactoring into the script)
 - `tqdm` (can be removed by removing progress bar)
 - `numpy` (can be removed after refactoring of answer printing, nothing really important depends on it)
